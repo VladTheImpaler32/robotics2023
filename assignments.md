@@ -11,5 +11,15 @@ nothing here yet :)
 ---
 
 ### Basic Robo Assignment
+<video muted src="https://user-images.githubusercontent.com/80496870/217602752-f14448e2-dd58-426a-bda5-ff13b6553a07.mp4" width="300"></video>
+---
 
+### t3-dot228-button-control-led-ambrose 
+<video muted src="https://user-images.githubusercontent.com/80496870/217603892-a3ee1dcc-d046-4806-9dec-1e7785074960.MOV" width="300"></video>
+---
 
+### t3-dot211-var-resistor-ambrose
+---
+
+### t3-dot1a-DAC-to-ADC-ambrose
+---
